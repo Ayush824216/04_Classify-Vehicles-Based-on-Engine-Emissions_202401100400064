@@ -21,6 +21,9 @@ KDE plot comparing emission densities by fuel type
 
 These plots help in understanding emission trends, fuel efficiency, and the relationship between vehicle attributes and their environmental impact.
 
+INPUTS :
+![image alt](![image alt](https://github.com/Ayush824216/04_Classify-Vehicles-Based-on-Engine-Emissions_202401100400064/blob/a056936ab26ff736f26ac5c4e0d1d20d3d0b58f7/Input_1.jpg))
+
 
 
 
